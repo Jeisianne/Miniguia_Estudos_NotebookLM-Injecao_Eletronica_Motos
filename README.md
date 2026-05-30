@@ -6,15 +6,15 @@ Uma IA treinada no assunto Injeção Eletrônica de Motocicletas, par auxiliar n
 com foco nos modelos da Honda e da Yamaha, que são as que mais chegam para reparos na oficina dele.
 
 FONTES:
-https://drive.google.com/file/d/0B9zatwSDIwKXdmlxaEM0eDRuNHZYTGtoZFFkYzNIYzlPb0Nj/edit?resourcekey=0-tbZaDun3Q5mF3Hh5tsHhhA
-https://www.hondamotopub.com/AHM
-https://chiptronic.com.br/blog/tabela-de-codigo-de-falhas-de-injecao-eletronica
-https://onlycars.com.br/wp-content/uploads/2025/12/tabela-codigo-de-falha-moto-yamaha-.pdf
-file:///C:/Users/geniv/OneDrive/%C3%81rea%20de%20Trabalho/Tabela_Codigo_Piscadas.pdf
-https://www.slideshare.net/slideshow/2011-yamaha-67-type-a-command-link-plus-service-repair-manual-sn0000749-and-up/82084260
-https://www.youtube.com/watch?v=3pJ6CAjGol0
-https://www.youtube.com/watch?v=tA_qxK0rIYQ
-https://www.youtube.com/watch?v=jekaoGL8nZ0
+1. https://drive.google.com/file/d/0B9zatwSDIwKXdmlxaEM0eDRuNHZYTGtoZFFkYzNIYzlPb0Nj/edit?resourcekey=0-tbZaDun3Q5mF3Hh5tsHhhA
+2. https://www.hondamotopub.com/AHM
+3. https://chiptronic.com.br/blog/tabela-de-codigo-de-falhas-de-injecao-eletronica
+4. https://onlycars.com.br/wp-content/uploads/2025/12/tabela-codigo-de-falha-moto-yamaha-.pdf
+5. file:///C:/Users/geniv/OneDrive/%C3%81rea%20de%20Trabalho/Tabela_Codigo_Piscadas.pdf
+6. https://www.slideshare.net/slideshow/2011-yamaha-67-type-a-command-link-plus-service-repair-manual-sn0000749-and-up/82084260
+7. https://www.youtube.com/watch?v=3pJ6CAjGol0
+8. https://www.youtube.com/watch?v=tA_qxK0rIYQ
+9. https://www.youtube.com/watch?v=jekaoGL8nZ0
 
 PROMPT(1):
 Faça um resumo estruturado sobre como é o funcionamento da injeção eletrônica nas motos e liste quais as principais diferenças das que não são injetadas?
